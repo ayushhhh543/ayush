@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    printf("enter the value of numbers");
+    scanf("%d, &")
+
+    return 0;
+}#include <stdio.h>
+
+int main() {
+    // Write C code here
+    printf("enter the value of a and b";
+    scanf("%d", &a, &b);
+    sum=a+b;
+    printf("sum of two numbers is %f", sum);
+    return 0
